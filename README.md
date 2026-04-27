@@ -7,7 +7,7 @@ I’m a programming student in Brazil. I’m building my skills mainly in **C#**
 ## 🌱 What I’m learning
 
 - **Back‑end & general programming:**  
-  C# for console apps, APIs, and basic OOP projects as part of my course curriculum.
+  C#, APIs, and basic OOP projects as part of my course curriculum.
 - **Front‑end foundations:**  
   HTML, CSS, JavaScript, and TypeScript for building simple interactive pages and small web experiments.
 
